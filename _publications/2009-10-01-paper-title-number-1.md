@@ -3,7 +3,7 @@ title: "A Domain-Adaptive Physics-Informed Neural Network for Inverse Problems o
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2024-10
+date: 2024-06-13
 venue: 'Journal 1'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/10556605)'
 citation: 'Shiyuan Piao, H. Gu, A. Wang and P. Qin,. (2024).'
