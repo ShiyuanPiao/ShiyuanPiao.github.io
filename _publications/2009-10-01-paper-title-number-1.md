@@ -5,7 +5,6 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2024-10
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/10556605)'
 citation: 'Shiyuan Piao, H. Gu, A. Wang and P. Qin,. (2024). IEEE Antennas and Wireless Propagation Letters, vol. 23, no. 10.'
 ---
