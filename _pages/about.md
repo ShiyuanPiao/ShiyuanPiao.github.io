@@ -14,5 +14,5 @@ My research focuses on physics-guided learning for electromagnetics.
 
 Publications
 ======
-[\textbf{Shiyuan Piao}], H. Gu, A. Wang and P. Qin, "A Domain-Adaptive Physics-Informed Neural Network for Inverse Problems of Maxwell's Equations in Heterogeneous Media," in IEEE Antennas and Wireless Propagation Letters, vol. 23, no. 10, pp. 2905-2909, Oct. 2024 [Link](https://pages.github.com/https://ieeexplore.ieee.org/document/10556605)
+[**Shiyuan Piao**], H. Gu, A. Wang and P. Qin, "A Domain-Adaptive Physics-Informed Neural Network for Inverse Problems of Maxwell's Equations in Heterogeneous Media," in IEEE Antennas and Wireless Propagation Letters, vol. 23, no. 10, pp. 2905-2909, Oct. 2024 [Link](https://pages.github.com/https://ieeexplore.ieee.org/document/10556605)
 
