@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shiyuan Piao/ 朴世元"
+title                    : "Shiyuan Piao/ 朴 世元"
 title_separator          : "-"
 name                     : &name "Shiyuan Piao"
 description              : &description "personal description"
