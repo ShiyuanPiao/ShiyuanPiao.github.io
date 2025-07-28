@@ -25,7 +25,6 @@ author:
   avatar           : "profile.png"
   name             : "Shiyuan Piao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
   location         : "Noord-Brabant， Eindhoven"
   employer         : "Eindhoven University of Technology"
   uri              : # URL
@@ -38,7 +37,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-6186-2769"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
